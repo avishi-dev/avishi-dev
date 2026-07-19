@@ -3,8 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avishi-dev&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%7C%20RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-28a745?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=ghostiee-11&style=for-the-badge&color=1a6dd4&label=Profile+Views" />
 </p>
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=avishi-dev&theme=radical" />
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/avishi-dev/avishi-dev/output/github-contribution-grid-snake-dark.svg" />
@@ -19,7 +28,7 @@
   <img src="https://streak-stats.demolab.com?user=avishi-dev&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
-# Tech Arsenal
+Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,c,git,github,vscode,streamlit&theme=dark" />
