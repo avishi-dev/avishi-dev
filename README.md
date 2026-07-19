@@ -12,11 +12,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishi-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=avishi-dev&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ## ⚡ Tech Arsenal
