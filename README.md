@@ -13,14 +13,7 @@
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=avishi-dev&show_icons=true&theme=tokyonight)
 
 
-## Recent Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/avishi-dev/avishi-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-- Multi-speaker Speech Separation
-- Agentic Deep Research
-- Digital Twin
-
-## Contact
-
-LinkedIn: (your link)
-
-Email: (your email)
