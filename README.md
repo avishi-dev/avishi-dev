@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, Avishi here!</h1>
 
-<!--
-**avishi-dev/avishi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hello+World+!;Avishi+here+!;Engineering Intelligent Solutions" />
+</p>
 
-Here are some ideas to get you started:
+🤖 Interested in
+- AI
+- Machine Learning
+- Agentic AI
+- Speech Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=avishi-dev&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avishi-dev&layout=compact&theme=tokyonight)
+
+## Recent Projects
+
+- Multi-speaker Speech Separation
+- Agentic Deep Research
+- Digital Twin
+
+## Contact
+
+LinkedIn: (your link)
+
+Email: (your email)
