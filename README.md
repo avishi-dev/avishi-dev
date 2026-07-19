@@ -17,9 +17,18 @@
   <img src="https://streak-stats.demolab.com?user=avishi-dev&theme=github-dark&hide_border=true" />
 </p>
 
-#Tech Stack
+## ⚡ Tech Arsenal
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,fastapi,docker,git,github,vscode,mongodb,postgres,redis,nodejs&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,c,git,github,vscode,streamlit&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,langchain,numpy,pandas,sklearn" />
+</p>
+
+<p align="center">
+  <strong>Agentic AI • RAG • ChromaDB • Vector Search • Embedding Models • LLM Engineering</strong>
 </p>
 
 ## 🌐 Connect With Me
