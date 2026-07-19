@@ -35,24 +35,22 @@
 
 Tech Arsenal
 
-<h2 align="center">⚡ Tech Arsenal</h2>
+<h2 align="center">🤖 AI & Development Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,git,github,vscode,html,css,streamlit&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,html,css,git,github,vscode,streamlit&perline=6&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,huggingface,langchain,gemini" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-0A84FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20Search-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Search-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 🤝 Let's Connect
