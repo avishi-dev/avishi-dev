@@ -3,12 +3,18 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=avishi-dev&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/avishi-dev/avishi-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
-## 📈 Contribution Graph
+[![Avishi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avishi-dev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avishi-dev&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=avishi-dev&theme=github-dark&hide_border=true" />
+</p>
 
 
