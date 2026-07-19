@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%7C%20RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-28a745?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=ghostiee-11&style=for-the-badge&color=1a6dd4&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=avishi-dev&style=for-the-badge&color=1a6dd4&label=Profile+Views" />
 </p>
 
 <div align="center">
