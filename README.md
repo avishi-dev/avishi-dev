@@ -12,9 +12,6 @@
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=avishi-dev&show_icons=true&theme=tokyonight)
 
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avishi-dev&layout=compact&theme=tokyonight)
 
 ## Recent Projects
 
