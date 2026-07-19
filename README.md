@@ -38,8 +38,6 @@
 
 Tech Arsenal
 
-<h2 align="center">⚡ Tech Arsenal</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,git,github,vscode,html,css,streamlit&perline=6&theme=dark" />
 </p>
