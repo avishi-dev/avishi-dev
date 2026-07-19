@@ -59,12 +59,19 @@ PROGRESS LOADING...
 
   <!-- Cursor -->
   <text
-      x="55"
-      y="330"
-      fill="#39FF14"
-      font-family="Courier New"
-      font-size="22"
-      filter="url(#glow)">
-&gt; _
-  </text>
+x="55"
+y="330"
+fill="#39FF14"
+font-family="Courier New"
+font-size="22">
+
+&gt;
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="1s"
+repeatCount="indefinite"/>
+
+</text>
 </svg>
