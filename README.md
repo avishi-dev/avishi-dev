@@ -24,6 +24,9 @@
   <img src="https://raw.githubusercontent.com/avishi-dev/avishi-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+<p align="center">
+<img src="terminal.svg"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishi-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
