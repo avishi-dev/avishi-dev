@@ -19,7 +19,7 @@
   <img src="https://streak-stats.demolab.com?user=avishi-dev&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
-## ⚡ Tech Arsenal
+# Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,c,git,github,vscode,streamlit&theme=dark" />
@@ -33,7 +33,7 @@
   <strong>Agentic AI • RAG • ChromaDB • Vector Search • Embedding Models • LLM Engineering</strong>
 </p>
 
-## 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/avishi-agarwal21/">
