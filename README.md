@@ -33,18 +33,9 @@
   <strong>Agentic AI • RAG • ChromaDB • Vector Search • Embedding Models • LLM Engineering</strong>
 </p>
 
-# Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/avishi-agarwal21/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="[YOUR_PORTFOLIO](https://avishi-dev.github.io/portfolio/)">
-<img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:avishi.agarwal.cse@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+🤝 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/avishi-agarwal21/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> 
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>  
 </p>
+<!-- Modern Footer -->
+<div align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" /> </div>
