@@ -17,8 +17,9 @@
   <img src="https://streak-stats.demolab.com?user=avishi-dev&theme=github-dark&hide_border=true" />
 </p>
 
+#Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,fastapi,docker,git,github,linux,vscode,mongodb,postgres,redis,nodejs&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,fastapi,docker,git,github,vscode,mongodb,postgres,redis,nodejs&perline=8"/>
 </p>
 
 ## 🌐 Connect With Me
