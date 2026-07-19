@@ -6,9 +6,9 @@
   <img src="https://raw.githubusercontent.com/avishi-dev/avishi-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=avishi-dev&show_icons=true&theme=tokyonight)
+## 📈 Contribution Graph
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avishi-dev&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
