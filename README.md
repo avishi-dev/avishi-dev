@@ -56,7 +56,7 @@ Tech Arsenal
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-🤝 Let's Connect
+Let's Connect
 <p align="center"> <a href="https://www.linkedin.com/in/avishi-agarwal21/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> 
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>  
 </p>
