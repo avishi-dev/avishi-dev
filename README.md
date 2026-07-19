@@ -17,4 +17,22 @@
   <img src="https://streak-stats.demolab.com?user=avishi-dev&theme=github-dark&hide_border=true" />
 </p>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,fastapi,docker,git,github,linux,vscode,mongodb,postgres,redis,nodejs&perline=8"/>
+</p>
 
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/avishi-agarwal21/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="[YOUR_PORTFOLIO](https://avishi-dev.github.io/portfolio/)">
+<img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:avishi.agarwal.cse@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
