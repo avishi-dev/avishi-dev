@@ -49,7 +49,7 @@ PROGRESS LOADING...
 
     <text x="55" y="190">Languages   : Python | C++ | C</text>
 
-    <text x="55" y="225">AI Stack    : PyTorch | TensorFlow | OpenCV</text>
+    <text x="55" y="225">AI Stack    : PyTorch | TensorFlow | scikit-learn</text>
 
     <text x="55" y="260">LLM Stack   : Hugging Face | LangChain | ChromaDB</text>
 
