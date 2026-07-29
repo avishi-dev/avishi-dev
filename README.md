@@ -16,10 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=avishi-dev&style=for-the-badge&color=1a6dd4&label=Profile+Views" />
 </p>
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=avishi-dev&theme=radical" />
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/avishi-dev/avishi-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
