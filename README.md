@@ -16,43 +16,21 @@
   <img src="https://komarev.com/ghpvc/?username=avishi-dev&style=for-the-badge&color=1a6dd4&label=Profile+Views" />
 </p>
 
+
+I am a B.Tech Computer Science Engineering student at Delhi Technological University (DTU), primarily interested in Artificial Intelligence, Machine Learning and intelligent systems. I build and experiment with ML/DL models, LLM-based systems, graph learning and multimodal AI, while also working on the software engineering required to turn these models into complete, usable systems.
+
+My work spans Agentic AI, LLM memory and RAG, Deep learning, Graph neural networks, forecasting and multimodal systems. I am currently working on provenance-preserving memory for AI agents, and have previously built an Air-gapped predictive AI copilot for secure network operations, a graph-learning system for urban safety, and an offline multimodal healthcare assistant. I enjoy working beyond just model training - designing evaluation pipelines, integrating models with real systems, building APIs and experimenting with how AI systems reason, retrieve information and make decisions.
+
+My research interests lie in Agentic AI, LLM memory and evaluation, RAG and knowledge graphs, graph learning, multimodal AI and reliable AI systems. Alongside AI, I am building strong foundations in backend engineering, data structures and algorithms, databases, operating systems and system design so that I can build AI systems end-to-end.
+
+I am open to AI/ML Engineering, AI Research, Applied AI and Software Engineering internship and research opportunities.
+
+[LinkedIn](https://www.linkedin.com/in/avishi-agarwal21/?isSelfProfile=true) · [Email](mailto:avishi.agarwal.cse@gmail.com)· Delhi NCR, India
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/avishi-dev/avishi-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-<p align="center">
-<img src="terminal.svg"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishi-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=avishi-dev&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,git,github,vscode,html,css,streamlit&perline=6&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-0A84FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20Search-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30px"/> &nbsp; Work Experience
 
@@ -157,6 +135,28 @@ Explore my repositories spanning **AI/ML research, graph learning, agentic syste
 </tr>
 </table>
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,git,github,vscode,html,css,streamlit&perline=6&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-0A84FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20Search-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
