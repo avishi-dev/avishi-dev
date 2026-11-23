@@ -3,13 +3,15 @@
 </div>
 
 
-I am a B.Tech Computer Science Engineering student at Delhi Technological University (DTU), primarily interested in Artificial Intelligence, Machine Learning and intelligent systems. I build and experiment with ML/DL models, LLM-based systems, graph learning and multimodal AI, while also working on the software engineering required to turn these models into complete, usable systems.
+I am a B.Tech Computer Science Engineering student at Delhi Technological University (DTU), class of 2029, with a CGPA of 9.3/10. Primarily interested in Artificial Intelligence, Machine Learning and intelligent systems, I build and experiment with ML/DL models, LLM-based systems, graph learning and multimodal AI, while also working on the software engineering required to turn these models into complete, usable systems.
 
-My work spans Agentic AI, LLM memory and RAG, Deep learning, Graph neural networks, forecasting and multimodal systems. I am currently working on provenance-preserving memory for AI agents, and have previously built an Air-gapped predictive AI copilot for secure network operations, a graph-learning system for urban safety, and an offline multimodal healthcare assistant. I enjoy working beyond just model training - designing evaluation pipelines, integrating models with real systems, building APIs and experimenting with how AI systems reason, retrieve information and make decisions.
+My work spans Agentic AI, LLM memory and RAG, Deep learning, Graph neural networks, forecasting and multimodal systems. I am currently working on provenance-preserving memory for AI agents, and have previously built an Air-gapped predictive AI copilot for secure network operations, a graph-learning system for urban safety, and an offline multimodal healthcare assistant. 
 
-My research interests lie in Agentic AI, LLM memory and evaluation, RAG and knowledge graphs, graph learning, multimodal AI and reliable AI systems. Alongside AI, I am building strong foundations in backend engineering, data structures and algorithms, databases, operating systems and system design so that I can build AI systems end-to-end.
+My research interests lie in Agentic AI, LLM memory and evaluation and reliable AI systems. My background in core computer science and full-stack development complements my work in AI/ML, allowing me to approach problems from both a systems engineering and machine learning perspective, and build complete, end-to-end applications.
 
-I am open to AI/ML Engineering, AI Research, Applied AI and Software Engineering internship and research opportunities.
+Alongside software and AI, I am expanding my understanding of semiconductor technologies and hardware through the NXP Women in Technology (WIT) Program, where I was selected among 75 scholars from over 21,500 applicants.
+
+I am open to SDE, AI/ML, and research internship opportunities where I can contribute to meaningful engineering work.
 
 [LinkedIn](https://www.linkedin.com/in/avishi-agarwal21/?isSelfProfile=true) · [Email](mailto:avishi.agarwal.cse@gmail.com)· Delhi NCR, India
 
