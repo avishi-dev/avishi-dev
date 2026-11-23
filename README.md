@@ -21,17 +21,17 @@ I am open to SDE, AI/ML, and research internship opportunities where I can contr
 
 ## Work Experience
 
-### 🔬 Research Intern &nbsp;·&nbsp; Delhi Technological University
+### Research Intern &nbsp;·&nbsp; Delhi Technological University
 **`June 2026 – August 2026`** &nbsp;|&nbsp; 📍 New Delhi, India
 
 ```text
 📌 Working on provenance-preserving memory systems for long-running AI agents
 ```
 
-- 🧠 Developed **PPGC (Provenance-Preserving Graph Consolidation)** for compressing and consolidating agent memory while retaining source provenance
-- 📊 Evaluated **5 memory strategies across 20 conversations**, achieving **100% provenance precision** and **87.3% relevant-information recall**
-- 🗜️ Reduced stored memory by **24.6%** while preserving information required for downstream retrieval
-- 🧪 Validated an **LLM-based evaluation framework** against 57 human-labelled assessments, achieving **94.7% agreement** and **Cohen’s κ = 0.895**
+- Developed **PPGC (Provenance-Preserving Graph Consolidation)** for compressing and consolidating agent memory while retaining source provenance
+- Evaluated **5 memory strategies across 20 conversations**, achieving **100% provenance precision** and **87.3% relevant-information recall**
+- Reduced stored memory by **24.6%** while preserving information required for downstream retrieval
+- Validated an **LLM-based evaluation framework** against 57 human-labelled assessments, achieving **94.7% agreement** and **Cohen’s κ = 0.895**
 
 **Stack:** `Python` `LLMs` `Knowledge Graphs` `RAG` `Ollama` `Graph Consolidation` `LLM Evaluation`
 
@@ -48,10 +48,10 @@ I am open to SDE, AI/ML, and research internship opportunities where I can contr
 
 Air-gapped **predictive AI copilot for secure MPLS network operations**, built for the **ISRO Bharatiya Antariksh Hackathon 2026**.
 
-- 🌐 Built over a **148-container SD-WAN/MPLS topology** with SNMP, Syslog, NetFlow/IPFIX & BGP/OSPF telemetry
-- 🧠 Multi-model pipeline combining **PatchTST, ST-GNN, VAE + Clustering & meta-learning**
-- ⚠️ Simulated **21 cascading network fault scenarios** with failure forecasting and time-to-impact estimation
-- 🔎 Offline topology-aware **RAG Copilot** using knowledge graphs, runbooks, telemetry & incident history
+- Built over a **148-container SD-WAN/MPLS topology** with SNMP, Syslog, NetFlow/IPFIX & BGP/OSPF telemetry
+- Multi-model pipeline combining **PatchTST, ST-GNN, VAE + Clustering & meta-learning**
+- Simulated **21 cascading network fault scenarios** with failure forecasting and time-to-impact estimation
+- Offline topology-aware **RAG Copilot** using knowledge graphs, runbooks, telemetry & incident history
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -66,10 +66,10 @@ Air-gapped **predictive AI copilot for secure MPLS network operations**, built f
 
 Graph-based urban safety prediction system using **Graph Attention Networks** to estimate road-level safety across a city.
 
-- 🗺️ Constructed a city-scale road graph from heterogeneous **geospatial data**
-- 🧠 Developed a **2-stage GAT pipeline** for feature completion and road safety estimation
-- 💡 Integrated **crime reports, lighting infrastructure & road topology**
-- 📍 Designed to predict safety even in regions with **sparse or missing observations**
+- Constructed a city-scale road graph from heterogeneous **geospatial data**
+- Developed a **2-stage GAT pipeline** for feature completion and road safety estimation
+- Integrated **crime reports, lighting infrastructure & road topology**
+- Designed to predict safety even in regions with **sparse or missing observations**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -86,10 +86,10 @@ Graph-based urban safety prediction system using **Graph Attention Networks** to
 
 Edge-native AI healthcare assistant built for the **AIC-CureBay Hackathon at APOGEE 2026, BITS Pilani**.
 
-- 📱 Integrated **medical triage, patient screening & prescription digitisation** for zero-connectivity environments
-- 🗣️ Built an **offline multilingual voice-first LLM pipeline** supporting English & Hindi
-- 📄 Integrated OCR for digitising handwritten prescriptions
-- 🧠 Combined **audio + computer vision models** for respiratory distress, skin-condition and anaemia screening
+- Integrated **medical triage, patient screening & prescription digitisation** for zero-connectivity environments
+- Built an **offline multilingual voice-first LLM pipeline** supporting English & Hindi
+- Integrated OCR for digitising handwritten prescriptions
+- Combined **audio + computer vision models** for respiratory distress, skin-condition and anaemia screening
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
