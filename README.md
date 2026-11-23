@@ -19,7 +19,7 @@ I am open to SDE, AI/ML, and research internship opportunities where I can contr
   <img src="https://raw.githubusercontent.com/avishi-dev/avishi-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30px"/> &nbsp; Work Experience
+## Work Experience
 
 ### 🔬 Research Intern &nbsp;·&nbsp; Delhi Technological University
 **`June 2026 – August 2026`** &nbsp;|&nbsp; 📍 New Delhi, India
@@ -37,14 +37,14 @@ I am open to SDE, AI/ML, and research internship opportunities where I can contr
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="30px"/> &nbsp; Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ [AI NOC Copilot](https://github.com/aarush-dev/mpls-lab)
+### [AI NOC Copilot](https://github.com/aarush-dev/mpls-lab)
 
 Air-gapped **predictive AI copilot for secure MPLS network operations**, built for the **ISRO Bharatiya Antariksh Hackathon 2026**.
 
@@ -62,7 +62,7 @@ Air-gapped **predictive AI copilot for secure MPLS network operations**, built f
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [WomenSafe — Graph-Based Urban Safety](https://github.com/avishi-dev/women-safe-route)
+### [WomenSafe — Graph-Based Urban Safety](https://github.com/avishi-dev/women-safe-route)
 
 Graph-based urban safety prediction system using **Graph Attention Networks** to estimate road-level safety across a city.
 
@@ -82,7 +82,7 @@ Graph-based urban safety prediction system using **Graph Attention Networks** to
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 [AASHA — Offline Rural Health Assistant](https://github.com/Sarthakcodes007/Curebay)
+### [AASHA — Offline Rural Health Assistant](https://github.com/Sarthakcodes007/Curebay)
 
 Edge-native AI healthcare assistant built for the **AIC-CureBay Hackathon at APOGEE 2026, BITS Pilani**.
 
@@ -99,7 +99,7 @@ Edge-native AI healthcare assistant built for the **AIC-CureBay Hackathon at APO
 </td>
 <td width="50%" valign="top">
 
-### 🚀 More on GitHub →
+### More on GitHub →
 
 Explore my repositories spanning **AI/ML research, graph learning, agentic systems, computer vision, network intelligence and software projects**.
 
@@ -125,7 +125,7 @@ Explore my repositories spanning **AI/ML research, graph learning, agentic syste
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-Stack
+## Stack
 
 Python, C++, C, SQL, JavaScript, PyTorch, TensorFlow, Scikit-learn, Graph Neural Networks, LangChain, RAG, LLM Agents, Knowledge Graphs, Vector Search, Multimodal AI, FastAPI, Streamlit, Flutter, SQLite, Git, GitHub, Hugging Face.
 <!-- Modern Footer -->
