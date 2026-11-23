@@ -3,12 +3,11 @@
 </div>
 
 
-I am a B.Tech Computer Science Engineering student at Delhi Technological University (DTU), class of 2029, with a CGPA of 9.3/10. Primarily interested in Artificial Intelligence, Machine Learning and intelligent systems, I build and experiment with ML/DL models, LLM-based systems, graph learning and multimodal AI, while also working on the software engineering required to turn these models into complete, usable systems.
+I am a B.Tech Computer Science Engineering student at Delhi Technological University (DTU), class of 2029, with a CGPA of 9.3/10. My interests lie in Artificial Intelligence, Machine Learning, and intelligent systems, with a strong background in core computer science, full-stack development, and building end-to-end applications.
 
-My work spans Agentic AI, LLM memory and RAG, Deep learning, Graph neural networks, forecasting and multimodal systems. I am currently working on provenance-preserving memory for AI agents, and have previously built an Air-gapped predictive AI copilot for secure network operations, a graph-learning system for urban safety, and an offline multimodal healthcare assistant. 
+My work spans Agentic AI, LLM memory and RAG, Deep learning, Graph neural networks, forecasting and multimodal systems. I am currently working on provenance-preserving memory for AI agents, and have previously built an Air-gapped predictive AI copilot for secure network operations for an ISRO Project. 
 
-My research interests lie in Agentic AI, LLM memory and evaluation and reliable AI systems. My background in core computer science and full-stack development complements my work in AI/ML, allowing me to approach problems from both a systems engineering and machine learning perspective, and build complete, end-to-end applications.
-
+My research interests lie specifically in Agentic AI, LLM memory and evaluation and reliable AI systems. 
 Alongside software and AI, I am expanding my understanding of semiconductor technologies and hardware through the NXP Women in Technology (WIT) Program, where I was selected among 75 scholars from over 21,500 applicants.
 
 I am open to SDE, AI/ML, and research internship opportunities where I can contribute to meaningful engineering work.
