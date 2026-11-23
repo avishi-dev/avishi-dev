@@ -1,20 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00FF99&center=true&vCenter=true&random=false&width=700&lines=Hello+World!;Avishi+this+side;Building+Intelligent+Systems;Always+Learning!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <b>AI/ML Researcher | SDE | Developer</b>
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%7C%20RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-28a745?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=avishi-dev&style=for-the-badge&color=1a6dd4&label=Profile+Views" />
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/avishi-agarwal21/"><img src=".github/workflows/banner.svg" alt="Avishi Agarwal. Agents, harnesses, skills and agentic RAG. Built, deployed, evaluated. Open to SDE and AI/ML internships, remote all year, on-site in summer 2027." width="100%"></a>
+</div>
 
 
 I am a B.Tech Computer Science Engineering student at Delhi Technological University (DTU), primarily interested in Artificial Intelligence, Machine Learning and intelligent systems. I build and experiment with ML/DL models, LLM-based systems, graph learning and multimodal AI, while also working on the software engineering required to turn these models into complete, usable systems.
